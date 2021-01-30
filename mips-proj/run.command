@@ -1,0 +1,1 @@
+java -jar Mars4_5.jar main.asm pa 10 10 255 0 0 100 64 0 255 0 64 90 0 0 255
